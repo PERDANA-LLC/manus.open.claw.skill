@@ -1,0 +1,7 @@
+/contact
+/contact-us
+/about
+/about-us
+/team
+/our-team
+/meet-the-team
