@@ -1,0 +1,57 @@
+## Template 1: The "10 Free Leads" Offer
+
+**Subject:** Quick question, {{firstName}}
+
+Hi {{firstName}},
+
+My name is [Your Name] and I'm with [Your Agency]. I'm reaching out because I noticed you're the [Title] at {{companyName}}.
+
+We specialize in helping [Their Industry] companies like yours get a consistent stream of qualified leads without paying for ads or expensive retainers.
+
+To prove it, I'd like to offer you 10 highly-qualified, exclusive leads for free. No strings attached.
+
+Would you be open to a quick 15-minute chat next week to discuss?
+
+Best,
+
+[Your Name]
+
+---
+
+## Template 2: The Pain-Point Follow-Up
+
+**Subject:** Re: Quick question
+
+Hi {{firstName}},
+
+Just following up on my previous email. Most [Title]s I speak with are struggling with either:
+
+a) Unpredictable lead flow
+b) High cost-per-lead from paid channels
+c) Wasting time on unqualified prospects
+
+We solve all three. Our pay-per-result model means you only pay for qualified leads we deliver.
+
+Again, happy to send over 10 free leads to show you the quality of our work. Any interest?
+
+Best,
+
+[Your Name]
+
+---
+
+## Template 3: The Breakup Email
+
+**Subject:** Closing the loop
+
+Hi {{firstName}},
+
+I've reached out a few times and haven't heard back, so I'll assume now isn't the right time.
+
+If you ever find yourself looking for a more predictable and cost-effective way to generate qualified leads, please feel free to reach out.
+
+All the best for {{companyName}}.
+
+Best,
+
+[Your Name]
