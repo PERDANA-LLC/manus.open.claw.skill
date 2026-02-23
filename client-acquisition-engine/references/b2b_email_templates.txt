@@ -1,57 +1,221 @@
-## Template 1: The "10 Free Leads" Offer
+===============================================================================
+CLIENT ACQUISITION ENGINE - B2B COLD EMAIL TEMPLATES
+===============================================================================
+Agency: Cash in Blue (https://pro.cashinblue.com)
+Service: Digital Marketing for Local Service Businesses
+Last Updated: 2026-02-23
+===============================================================================
 
-**Subject:** Quick question, {{firstName}}
+Merge Fields:
+  {{firstName}}   - Contact's first name
+  {{companyName}} - Company name
+  {{city}}        - City where the business operates
+  {{industry}}    - Business industry/vertical
+  {{painPoint}}   - Specific pain point identified during enrichment
+  {{proofPoint}}  - Relevant case study or stat for social proof
+  {{senderName}}  - Sender's name (default: Thomas)
+  {{senderTitle}} - Sender's title (default: Founder)
+  {{agencyName}}  - Agency name (default: Cash in Blue)
 
-Hi {{firstName}},
+===============================================================================
+TEMPLATE 1: THE FREE AUDIT OPENER (Day 0 - Primary)
+===============================================================================
 
-My name is [Your Name] and I'm with [Your Agency]. I'm reaching out because I noticed you're the [Title] at {{companyName}}.
-
-We specialize in helping [Their Industry] companies like yours get a consistent stream of qualified leads without paying for ads or expensive retainers.
-
-To prove it, I'd like to offer you 10 highly-qualified, exclusive leads for free. No strings attached.
-
-Would you be open to a quick 15-minute chat next week to discuss?
-
-Best,
-
-[Your Name]
-
----
-
-## Template 2: The Pain-Point Follow-Up
-
-**Subject:** Re: Quick question
-
-Hi {{firstName}},
-
-Just following up on my previous email. Most [Title]s I speak with are struggling with either:
-
-a) Unpredictable lead flow
-b) High cost-per-lead from paid channels
-c) Wasting time on unqualified prospects
-
-We solve all three. Our pay-per-result model means you only pay for qualified leads we deliver.
-
-Again, happy to send over 10 free leads to show you the quality of our work. Any interest?
-
-Best,
-
-[Your Name]
-
----
-
-## Template 3: The Breakup Email
-
-**Subject:** Closing the loop
+Subject: {{city}} {{industry}} marketing
 
 Hi {{firstName}},
 
-I've reached out a few times and haven't heard back, so I'll assume now isn't the right time.
+I took a quick look at {{companyName}}'s online presence and spotted a few
+things that are probably costing you leads right now.
 
-If you ever find yourself looking for a more predictable and cost-effective way to generate qualified leads, please feel free to reach out.
+For example, {{painPoint}}.
 
-All the best for {{companyName}}.
+We work exclusively with {{industry}} businesses in markets like {{city}},
+and I put together a free 5-minute audit showing exactly where you're
+leaving money on the table.
 
-Best,
+No pitch, no strings. Just a PDF with specific fixes you can hand to
+whoever manages your marketing.
 
-[Your Name]
+Want me to send it over?
+
+{{senderName}}
+{{senderTitle}}, {{agencyName}}
+
+===============================================================================
+TEMPLATE 2: THE PAIN-POINT FOLLOW-UP (Day 3)
+===============================================================================
+
+Subject: re: {{city}} {{industry}} marketing
+
+Hi {{firstName}},
+
+Quick follow-up. Most {{industry}} owners I talk to in {{city}} are
+dealing with at least one of these:
+
+  1. Google Ads spending that feels like a black hole
+  2. A website that looks fine but doesn't convert visitors into calls
+  3. Competitors showing up above them in Google Maps
+
+If any of those hit close to home, that free audit I mentioned would
+be worth 5 minutes of your time.
+
+{{proofPoint}}
+
+Happy to send it over if you reply with "send it."
+
+{{senderName}}
+
+===============================================================================
+TEMPLATE 3: THE SOCIAL PROOF ANGLE (Day 5 - Alternative to Template 2)
+===============================================================================
+
+Subject: how {{proofPoint}}
+
+Hi {{firstName}},
+
+Wanted to share something relevant.
+
+{{proofPoint}}
+
+They were in a similar spot to {{companyName}} - solid service, good
+reputation, but their online presence wasn't pulling its weight.
+
+We made three specific changes to their digital marketing setup. The
+results showed up within 60 days.
+
+I can walk you through exactly what we did in a 10-minute call. No
+obligation, and you'll walk away with at least one idea you can
+implement yourself.
+
+Worth a quick conversation?
+
+{{senderName}}
+{{senderTitle}}, {{agencyName}}
+
+===============================================================================
+TEMPLATE 4: THE COMPETITOR GAP (Day 0 - Alternative Opener)
+===============================================================================
+
+Subject: {{companyName}} vs competitors
+
+Hi {{firstName}},
+
+I was researching {{industry}} companies in {{city}} and noticed
+something interesting about {{companyName}}.
+
+Your competitors are investing heavily in their online presence -
+Google Ads, SEO, review management - and it's showing up in the
+search results. Right now, they're capturing leads that should be
+going to you.
+
+The good news: the gap isn't that wide. A few targeted changes could
+shift the balance.
+
+I put together a quick competitive analysis showing where
+{{companyName}} stands versus the top 3 competitors in your area.
+It's already done - just need your OK to send it.
+
+Interested?
+
+{{senderName}}
+{{senderTitle}}, {{agencyName}}
+
+===============================================================================
+TEMPLATE 5: THE ROI CALCULATOR (Day 0 - Alternative Opener)
+===============================================================================
+
+Subject: quick math for {{companyName}}
+
+Hi {{firstName}},
+
+I ran some rough numbers for {{industry}} businesses in {{city}}:
+
+  - Average cost per lead from Google Ads: $35-$85
+  - Average close rate for qualified leads: 15-25%
+  - Average job value for {{industry}}: $500-$2,500
+
+That means every 10 qualified leads could be worth $750-$6,250 in
+revenue.
+
+Most {{industry}} businesses I work with are getting fewer than 10
+qualified leads per month from their website and ads combined.
+We typically double that number within 90 days.
+
+Would it be useful to see what those numbers look like specifically
+for {{companyName}}?
+
+{{senderName}}
+{{senderTitle}}, {{agencyName}}
+
+===============================================================================
+TEMPLATE 6: THE BREAKUP EMAIL (Day 7)
+===============================================================================
+
+Subject: closing the loop
+
+Hi {{firstName}},
+
+I've reached out a couple of times about helping {{companyName}}
+generate more leads online, and I haven't heard back.
+
+Totally fine - I know you're busy running a business, not reading
+cold emails.
+
+I'll leave you with this: if you ever want a no-cost audit of your
+digital marketing (website, Google Ads, SEO, reviews), the offer
+stands. Just reply to this email whenever the timing is right.
+
+Wishing {{companyName}} a strong year ahead.
+
+{{senderName}}
+{{senderTitle}}, {{agencyName}}
+https://pro.cashinblue.com
+
+===============================================================================
+SEQUENCE RECOMMENDATIONS
+===============================================================================
+
+Recommended 3-Email Sequence (Conservative):
+  Day 0: Template 1 (Free Audit Opener)
+  Day 3: Template 2 (Pain-Point Follow-Up)
+  Day 7: Template 6 (Breakup Email)
+
+Recommended 5-Email Sequence (Aggressive):
+  Day 0: Template 1 (Free Audit Opener)
+  Day 3: Template 2 (Pain-Point Follow-Up)
+  Day 5: Template 3 (Social Proof Angle)
+  Day 8: Template 5 (ROI Calculator)
+  Day 12: Template 6 (Breakup Email)
+
+Alternative Opener Sequences:
+  Competitor-focused: Template 4 -> Template 2 -> Template 6
+  Numbers-focused:    Template 5 -> Template 3 -> Template 6
+
+===============================================================================
+PERSONALIZATION GUIDELINES
+===============================================================================
+
+1. ALWAYS replace {{painPoint}} with something specific to the lead.
+   Good: "Your Google Business Profile hasn't been updated since 2024"
+   Bad:  "You might be missing out on leads"
+
+2. ALWAYS replace {{proofPoint}} with a real or realistic case study.
+   Good: "A plumber in Austin went from 8 to 34 monthly leads in 90 days"
+   Bad:  "We help businesses grow"
+
+3. Subject lines should be lowercase, 2-5 words, no punctuation tricks.
+
+4. Keep total email length under 125 words for initial outreach.
+
+5. Never use: "I hope this finds you well," "touching base," "synergy,"
+   "leverage," "best-in-class," or "leading provider."
+
+6. The CTA should require a one-word or one-line reply.
+   Good: "Want me to send it over?"
+   Good: "Worth a quick conversation?"
+   Bad:  "Let me know when you're free for a 30-minute strategy session"
+
+===============================================================================
+END OF TEMPLATES
+===============================================================================
