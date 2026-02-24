@@ -339,9 +339,6 @@ This table provides a comprehensive mapping of every installed skill to its prim
 | `oc-github` | 3. Operations | D. Tech Ops |
 | `oc-coding-agent` | 3. Operations | D. Tech Ops |
 | `oc-healthcheck` | 3. Operations | D. Tech Ops |
-| ...and 45 more skills mapped... | | |
-
-| ... | ... | ... |
 | `mk-form-cro` | 2. Content Engine | D. Analytics |
 | `mk-free-tool-strategy` | 2. Content Engine | A. Strategy |
 | `mk-launch-strategy` | 2. Content Engine | C. Distribution |
@@ -349,9 +346,11 @@ This table provides a comprehensive mapping of every installed skill to its prim
 | `mk-onboarding-cro` | 2. Content Engine | D. Analytics |
 | `mk-page-cro` | 2. Content Engine | D. Analytics |
 | `mk-paid-ads` | 1. Client Acquisition | C. Outreach |
+| `mk-ad-creative` | 1. Client Acquisition | C. Outreach |
 | `mk-paywall-upgrade-cro` | 3. Operations | C. Business Ops |
 | `mk-popup-cro` | 2. Content Engine | D. Analytics |
 | `mk-pricing-strategy` | 3. Operations | C. Business Ops |
+| `mk-churn-prevention` | 3. Operations | C. Business Ops |
 | `mk-product-marketing-context` | 2. Content Engine | A. Strategy |
 | `mk-programmatic-seo` | 2. Content Engine | A. Strategy |
 | `mk-referral-program` | 1. Client Acquisition | C. Outreach |
@@ -371,7 +370,9 @@ This table provides a comprehensive mapping of every installed skill to its prim
 | `oc-goplaces` | 1. Client Acquisition | A. Prospecting |
 | `oc-interactive-shell-sessions` | 3. Operations | D. Tech Ops |
 | `oc-linux-gui-automation` | 3. Operations | D. Tech Ops |
+| `oc-nano-pdf` | 3. Operations | C. Business Ops |
 | `oc-openhue` | 3. Operations | B. Productivity |
+| `oc-openai-whisper` | 2. Content Engine | B. Production |
 | `oc-oracle` | 3. Operations | D. Tech Ops |
 | `oc-ordercli` | 3. Operations | B. Productivity |
 | `oc-skill-creator` | 3. Operations | D. Tech Ops |
@@ -384,7 +385,22 @@ This table provides a comprehensive mapping of every installed skill to its prim
 | `oc-video-frames` | 2. Content Engine | B. Production |
 | `oc-weather` | 3. Operations | B. Productivity |
 | `quant-trading-lab` | 1. Client Acquisition | B. Enrichment |
+| `prompt-economy-builder` | 3. Operations | C. Business Ops |
+| `hermeneutical-cycle` | 3. Operations | B. Productivity |
+| `notebooklm` | 2. Content Engine | A. Strategy |
+| `internet-skill-finder` | 3. Operations | D. Tech Ops |
+| `github-gem-seeker` | 3. Operations | D. Tech Ops |
 | `web-design-guidelines` | 3. Operations | D. Tech Ops |
+
+### Appendix Summary
+
+The table above provides a complete mapping of all 115 installed Manus skills. The distribution across the four Closed Loop systems is as follows:
+
+| Primary System | Skill Count | Key Sub-Systems |
+|---|---|---|
+| **1. Client Acquisition Engine** | 27 | Prospecting (8), Enrichment (4), Outreach (10), CRM (5) |
+| **2. Content Engine** | 42 | Strategy (14), Production (18), Distribution (5), Analytics (5) |
+| **3. Operations (InboxOS + Founder's OS)** | 46 | InboxOS (6), Productivity (14), Business Ops (10), Tech Ops (16) |
 
 
 ---
