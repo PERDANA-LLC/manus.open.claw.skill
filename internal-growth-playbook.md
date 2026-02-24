@@ -9,7 +9,7 @@
 
 The most powerful way to sell a service is to **be your own best case study**. This playbook provides a comprehensive, step-by-step guide to implementing this philosophy using Manus. It details how to build a powerful, self-sustaining growth engine for your own business by creating and automating four interconnected "Closed Loop" systems. By turning your internal operations into a live demo of your capabilities, you create an unstoppable flywheel where your business markets, sells, and operates itself.
 
-This guide maps all 115 of your currently installed Manus skills to this framework, transforming your agency from a service provider into a product-powered machine.
+This guide maps all 140 of your currently installed Manus skills to this framework, transforming your agency from a service provider into a product-powered machine.
 
 ### The Four Closed Loop Systems
 
@@ -23,6 +23,39 @@ This guide maps all 115 of your currently installed Manus skills to this framewo
 ---
 
 ## Part 1: The Client Acquisition Engine
+
+### E. System 5: Development & Tech Ops
+
+**Goal:** To build and maintain the underlying technical infrastructure that powers all other systems. This system is the foundation of your AI-powered agency.
+
+| Skill | Role in Tech Ops System |
+|---|---|
+| `nextjs-supabase-auth` | **Authentication.** Implement secure user authentication for your internal tools and client-facing applications. |
+| `nextjs-best-practices` | **Code Quality.** Ensure your codebase is clean, performant, and maintainable. |
+| `nextjs-app-router-patterns` | **Modern Frontend.** Build fast, modern web applications with the latest Next.js features. |
+| `react-best-practices` | **Component Architecture.** Write reusable, performant React components. |
+| `tailwind-patterns` | **UI/UX.** Create beautiful, responsive user interfaces with Tailwind CSS. |
+| `stripe-integration` | **Monetization.** Integrate payment processing for your services and products. |
+| `supabase-automation` | **Database Management.** Automate database tasks and manage your data layer. |
+| `vercel-deployment` | **Deployment.** Deploy your applications to Vercel with ease. |
+| `python-fastapi-development` | **Backend Development.** Build high-performance APIs with Python and FastAPI. |
+| `ai-agent-development` | **Agent Development.** Build custom AI agents to automate complex tasks. |
+| `ai-agents-architect` | **Agent Architecture.** Design and build robust, scalable multi-agent systems. |
+| `llm-app-patterns` | **LLM Applications.** Build production-ready LLM applications with the latest patterns. |
+| `prompt-engineering` | **Prompt Optimization.** Optimize your prompts for better performance and accuracy. |
+| `micro-saas-launcher` | **Productization.** Turn your internal tools into sellable micro-SaaS products. |
+| `api-design-principles` | **API Design.** Design clean, intuitive APIs for your internal and external services. |
+| `api-documentation` | **API Documentation.** Generate comprehensive documentation for your APIs. |
+| `production-code-audit` | **Code Auditing.** Audit your codebase for production readiness and best practices. |
+| `security-audit` | **Security.** Secure your applications and infrastructure against vulnerabilities. |
+| `zustand-store-ts` | **State Management.** Manage application state with Zustand and TypeScript. |
+| `senior-fullstack` | **Full-Stack Development.** Build complete web applications from front to back. |
+| `python-pro` | **Python Expertise.** Master advanced Python features and best practices. |
+| `ai-engineer` | **AI Engineering.** Build production-grade AI systems and applications. |
+| `startup-analyst` | **Business Analysis.** Analyze your business and make data-driven decisions. |
+| `payment-integration` | **Payment Processing.** Integrate multiple payment gateways into your applications. |
+| `database-architect` | **Database Design.** Design scalable and efficient database architectures. |
+
 
 **Core Idea:** A meta-strategy where the product you are selling—AI-powered client acquisition—is its own primary marketing channel. This creates a powerful, self-referential growth loop. The more you use the engine, the more clients you get; the more clients you get, the more you refine the engine.
 
