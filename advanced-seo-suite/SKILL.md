@@ -1,3 +1,8 @@
+---
+name: advanced-seo-suite
+description: A comprehensive 19-function SEO and GEO toolkit covering keyword research, competitor analysis, content optimization, schema markup, technical SEO, rank tracking, and AI citation optimization. Adapted from seo-geo-claude-skills.
+---
+
 # Advanced SEO Suite
 
 A comprehensive SEO and GEO (Generative Engine Optimization) toolkit adapted from the `seo-geo-claude-skills` repository by Aaron He Zhu. This skill consolidates 20+ individual SEO skills into a single, powerful meta-skill for Manus, covering the full lifecycle of search engine optimization: Research, Build, Optimize, and Monitor.
